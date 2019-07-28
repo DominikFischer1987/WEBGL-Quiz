@@ -1,0 +1,13 @@
+{
+"companyName": "DeutschlandImPlus",
+"productName": "Quiz Game",
+"dataUrl": "Final Build Quiz.data.unityweb",
+"wasmCodeUrl": "Final Build Quiz.wasm.code.unityweb",
+"wasmFrameworkUrl": "Final Build Quiz.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
